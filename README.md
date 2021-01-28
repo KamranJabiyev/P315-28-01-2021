@@ -2,7 +2,7 @@
 
 https://www.w3schools.com/sql/sql_constraints.asp
 
-tutorialspoint.com/sql/sql-constraints.htm
+https://tutorialspoint.com/sql/sql-constraints.htm
 
 https://code.tutsplus.com/articles/sql-for-beginners-part-3-database-relationships--net-8561
 
